@@ -137,7 +137,7 @@ Currently exploring:
 
 📚 Google Scholar: *([Add your profile link](https://scholar.google.com/citations?user=LeJ5ocwAAAAJ&hl=en&authuser=1))*
 
-🆔 ORCID: *[([Add your ORCID link](https://orcid.org/0000-0002-4461-3699))]*
+🆔 ORCID: *[(https://orcid.org/0000-0002-4461-3699)]*
 
 💼 LinkedIn: *([Add your LinkedIn profile](https://ir.linkedin.com/in/khalegh-behrouz-9bb1939b))*
 
