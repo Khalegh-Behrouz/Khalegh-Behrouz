@@ -2,7 +2,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Khalegh Behrouz Banner" width="100%">
 </p>
-## 👋 Hi, I'm Khalegh Behrouz
+ 👋 ## Hi, I'm Khalegh Behrouz
 
 ### PhD Candidate in Artificial Intelligence
 
