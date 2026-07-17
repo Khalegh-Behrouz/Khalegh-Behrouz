@@ -141,7 +141,6 @@ Currently exploring:
 
 💼 LinkedIn: *([LinkedIn profile](https://ir.linkedin.com/in/khalegh-behrouz-9bb1939b))*
 
-📄 CV: *(Optional)*
 
 ---
 
