@@ -94,8 +94,8 @@ Courses taught:
 
 ### Computer Vision
 
-- CNN
-- Mask R-CNN
+- Face Detection
+- Object Tracking
 - Object Detection
 - Instance Segmentation
 - Image Segmentation
